@@ -3,7 +3,7 @@
 --> 
 
 <div id="social-media-links" align="center">
-  <a href="http://www.linkedin.com/in/judit-burgaya-ventura">
+  <a href="https://www.linkedin.com/in/judit-burgaya-ventura-706016199/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://orcid.org/0000-0002-6383-1165">
@@ -51,7 +51,7 @@ I am a doctoral researcher and PhD student in computational modeling of bacteria
 ### Connect with me
 
 <div id="social-media-links" align="center">
-  <a href="http://www.linkedin.com/in/judit-burgaya-ventura">
+  <a href="https://www.linkedin.com/in/judit-burgaya-ventura-706016199/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=25 width=25" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/juditburgaya">
